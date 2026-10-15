@@ -43,7 +43,7 @@ A lightweight, standalone Python/Tkinter GUI wrapper for the official [Proton Dr
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/SyncProGUI-for-Proton-Drive.git](https://github.com/YOUR_USERNAME/SyncProGUI-for-Proton-Drive.git)
+   git clone [https://github.com/frankvanimschoot/SyncProGUI.git](https://github.com/frankvanimschoot/SyncProGUI.git)
 
 2. Navigate into the project folder:
    ```bash
