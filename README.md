@@ -5,6 +5,10 @@ A lightweight, standalone Python/Tkinter GUI wrapper for the official [Proton Dr
 
 ---
 
+![SyncProGUI Screenshot](images/Screenshot1.jpg) ![SyncProGUI Screenshot](images/Screenshot2.jpg)
+
+---
+
 ## ✨ Features
 
 * **📸 First-Class macOS Photo & Album Management:** 
