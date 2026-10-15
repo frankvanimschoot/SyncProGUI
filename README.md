@@ -5,7 +5,7 @@ A lightweight, standalone Python/Tkinter GUI wrapper for the official [Proton Dr
 
 ---
 
-![SyncProGUI Screenshot File Sync](images/Screenshot1.jpeg) ![SyncProGUI Screenshot Photo Sync](images/Screenshot2.jpeg)
+![SyncProGUI Screenshot File Sync]screenshots/Screenshot1.jpeg) ![SyncProGUI Screenshot Photo Sync](screenshots/Screenshot2.jpeg)
 
 ---
 
