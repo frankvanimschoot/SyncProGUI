@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom App Data
+.proton_sync_profiles.json
+.proton_sync_user.txt
+
+# macOS files
+.DS_Store
